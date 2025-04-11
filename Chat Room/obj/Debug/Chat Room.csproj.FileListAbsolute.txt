@@ -1,0 +1,12 @@
+D:\UIT\NT106\Lab_3\Chat Room\bin\Debug\Chat Room.exe.config
+D:\UIT\NT106\Lab_3\Chat Room\bin\Debug\Chat Room.exe
+D:\UIT\NT106\Lab_3\Chat Room\bin\Debug\Chat Room.pdb
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat Room.csproj.AssemblyReference.cache
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat_Room.Client.resources
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat_Room.Server.resources
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat_Room.Properties.Resources.resources
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat Room.csproj.GenerateResource.cache
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat Room.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat Room.exe
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat Room.pdb
+D:\UIT\NT106\Lab_3\Chat Room\obj\Debug\Chat_Room.Menu.resources
